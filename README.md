@@ -13,7 +13,7 @@ The generated WAR file is created in `helloworld101/target/` and is intentionall
 
 ## Run on Tomcat
 
-Deploy `helloworld101/target/helloworld101.war` to Tomcat 9 and open:
+Deploy `helloworld101/target/helloworld101.war` to Tomcat 11 and open:
 
 `http://localhost:8585/helloworld101/hello`
 
